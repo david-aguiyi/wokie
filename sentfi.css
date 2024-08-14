@@ -968,7 +968,7 @@ button {
     margin-top: 2rem;
     text-align: center;
     padding-top: 1rem;
-    padding-bottom: 10rem;
+    /* padding-bottom: 10rem; */
 }
 
 .features
@@ -2074,7 +2074,7 @@ h1.bold-text {
     margin-top: 2rem;
     text-align: center;
     padding-top: 1rem;
-    padding-bottom: 10rem;
+    /* padding-bottom: 10rem; */
 }
 
 .features p {
@@ -3328,7 +3328,7 @@ button {
     margin-top: 2rem;
     text-align: center;
     padding-top: 1rem;
-    padding-bottom: 10rem;
+    /* padding-bottom: 10rem; */
 }
 
 .features
@@ -4411,12 +4411,7 @@ h1.bold-text {
     margin-bottom: -0.5em;
 }
 
-.features h1 {
-    margin-top: 2rem;
-    text-align: center;
-    padding-top: 1rem;
-    padding-bottom: 10rem;
-}
+
 
 .features p {
     color: #4c4c4c;
@@ -6270,7 +6265,7 @@ button {
     margin-top: 2rem;
     text-align: center;
     padding-top: 1rem;
-    padding-bottom: 10rem;
+    padding-bottom: 1rem;
 }
 
 .features
@@ -7330,12 +7325,7 @@ h1.bold-text {
     margin-bottom: -0.5em;
 }
 
-.features h1 {
-    margin-top: 2rem;
-    text-align: center;
-    padding-top: 1rem;
-    padding-bottom: 10rem;
-}
+
 
 .features p {
     color: #4c4c4c;
@@ -9091,6 +9081,7 @@ img.burnimg{
     flex-direction: column;
     justify-content: center;
     align-self: center;
+    align-items: center;
 }
 
 img.mintimg{
@@ -10842,12 +10833,7 @@ h1.bold-text {
     margin-bottom: -0.5em;
 }
 
-.features h1 {
-    margin-top: 2rem;
-    text-align: center;
-    padding-top: 1rem;
-    padding-bottom: 10rem;
-}
+
 
 .features p {
     color: #4c4c4c;
@@ -11854,7 +11840,7 @@ img.right-img {
 @media (max-width: 400px) {
     .sniffers{
             position: absolute;
-   top: 48%;
+            top: 44%;
     }
 
     span.sniff2 {
