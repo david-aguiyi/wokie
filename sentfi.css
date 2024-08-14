@@ -10662,7 +10662,7 @@ h1.bold-text {
     overflow: hidden;
     margin-top: 3rem;
     margin-inline: 2rem;
-    background-color: #fff;
+    background-color: transparent;
     position: relative;
     display: flex;
 }
@@ -10717,7 +10717,7 @@ h1.bold-text {
     overflow: hidden;
     margin-top: 3rem;
     margin-inline: 2rem;
-    background-color: #fff;
+    background-color: transparent;
     position: relative;
     display: flex;
 }
@@ -10746,6 +10746,7 @@ h1.bold-text {
 .content3 {
     display: flex;
     animation: marquee3 30s linear infinite;
+    background: transparent;
     transition: animation-duration 0.5s ease;
 }
 
